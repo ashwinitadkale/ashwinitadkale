@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💻 Ashwini - Data Science, AI, and ML Enthusiast
 
-<!--
-**ashwinitadkale/ashwinitadkale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Ashwini, a passionate student specializing in Data Science, Artificial Intelligence, and Machine Learning. Currently, I'm working as a Tech Lead Intern at Swecha, where I am focused on building a Telugu-centric LLM model.
 
-Here are some ideas to get you started:
+## 🌱 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Programming Languages:** Python, C, Java
+* **Libraries & Tools:** NumPy, Pandas, Seaborn, Matplotlib
+* **Data Visualization:** Tableau
+* **Development Environments:** Jupyter, VS Code
+
+## 🚀 Interests
+
+* Machine Learning
+* Artificial Intelligence
+* Data Science
+
+## 💼 Current Role
+
+* Tech Lead Intern at Swecha
+* Project: Developing a Telugu-centric LLM model
+
+## 📫 Let's Connect
+
+* LinkedIn: [Ashwini Tadkale](https://www.linkedin.com/in/ashwini-tadkale/)
+
+Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.
