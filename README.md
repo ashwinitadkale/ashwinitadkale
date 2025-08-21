@@ -25,3 +25,7 @@ Hello! I'm Ashwini, a passionate student specializing in Data Science, Artificia
 * LinkedIn: [Ashwini Tadkale](https://www.linkedin.com/in/ashwini-tadkale/)
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.
+
+## LeetCode Progress
+
+![Leetcode Stats](https://leetcode.com/u/ashwinit1/)
