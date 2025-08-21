@@ -28,4 +28,4 @@ Thank you for visiting my GitHub profile! Feel free to explore my projects and c
 
 ## LeetCode Progress
 
-![Leetcode Stats]([https://leetcard.jacoblin.cool/ashwinit1])
+![Leetcode Stats]([https://leetcard.jacoblin.cool/(https://leetcode.com/u/ashwinit1/)])
