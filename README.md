@@ -4,8 +4,9 @@ Hello! I'm Ashwini, a passionate student specializing in Data Science, Artificia
 ## 🌱 Skills & Technologies
 
 * **Programming Languages:** Python, C, Java
-* **Libraries & Tools:** NumPy, Pandas, Seaborn, Matplotlib
-* **Data Visualization:** Tableau
+* **Libraries & Tools:** NumPy, Pandas, Kafka,Streamlit
+* **Data Visualization:** Tableau, Matplotlib, Seaborn
+* **DBMS:** Sql,PostgreSql
 * **Development Environments:** Jupyter, VS Code
 
 ## 🚀 Interests
