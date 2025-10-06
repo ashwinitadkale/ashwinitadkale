@@ -1,7 +1,6 @@
 # 💻 Ashwini - Data Science, AI, and ML Enthusiast
 
-Hello! I'm Ashwini, a passionate student specializing in Data Science, Artificial Intelligence, and Machine Learning. Currently, I'm working as a Tech Lead Intern at Swecha, where I am focused on building a Telugu-centric LLM model.
-
+Hello! I'm Ashwini, a passionate student specializing in Data Science, Artificial Intelligence, and Machine Learning.
 ## 🌱 Skills & Technologies
 
 * **Programming Languages:** Python, C, Java
@@ -15,10 +14,9 @@ Hello! I'm Ashwini, a passionate student specializing in Data Science, Artificia
 * Artificial Intelligence
 * Data Science
 
-## 💼 Current Role
+## 💼 Currently Working on
 
-* Tech Lead Intern at Swecha
-* Project: Developing a Telugu-centric LLM model
+* AutoEDA project
 
 ## 📫 Let's Connect
 
@@ -26,6 +24,4 @@ Hello! I'm Ashwini, a passionate student specializing in Data Science, Artificia
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.
 
-## LeetCode Progress
 
-![Leetcode Stats]([https://leetcard.jacoblin.cool/(https://leetcode.com/u/ashwinit1/)])
